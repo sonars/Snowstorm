@@ -1,0 +1,10 @@
+{
+  "name": "Snowstorm",
+  "version": "1.0.0",
+  "description": "Javascript SnowFlakes",
+  "main": "index.js",
+  "keywords": ["snow flakes","snow storm","sonars","Mahesh"],
+  "repository": "git@github.com:sonars/Snowstorm.git",
+  "author": "Sonars <sonarlax2010@gmail.com>",
+  "license": "MIT"
+}
